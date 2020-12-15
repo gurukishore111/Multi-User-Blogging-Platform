@@ -1,4 +1,4 @@
-# Multi-User-Blogging-Platform(MERN STACK)
+### Multi-User-Blogging-Platform(MERN STACK)
 It is the Full-stack Multi-Users Blogging platform  🤓  you can share the knowledge ✉️ and help others, This  project developed by Node JS, Express, MongoDB , Next js
 
 Live Demo▶️:
